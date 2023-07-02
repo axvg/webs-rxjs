@@ -1,0 +1,11 @@
+{
+  "name": "webs-rxjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/axvg/webs-rxjs",
+  "author": "axvg",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  }
+}
